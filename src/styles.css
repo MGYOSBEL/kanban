@@ -34,4 +34,4 @@ html, body {
     height: 100%; 
     
 }
-body { margin: 0; font-family: Roboto; color: #ffffff; }
+body { margin: 0; font-family: Roboto, Arial, Helvetica, sans-serif; color: #ffffff; }

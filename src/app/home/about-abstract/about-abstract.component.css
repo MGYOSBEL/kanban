@@ -1,0 +1,16 @@
+.col{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+
+.container-fluid{
+    padding: 0;
+    margin:0;
+}
+
+
+h2{
+margin-top: 2em;
+
+}
