@@ -14,3 +14,16 @@ h2{
 margin-top: 2em;
 
 }
+
+/* section{
+    background: url('../../../assets/img/developerDesktop.jpg');
+    background-size: ;
+}
+
+#right-col{
+    background-color: rgb(26, 26, 26);
+} */
+
+.col img{
+    max-height: 100%;
+}
